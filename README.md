@@ -10,8 +10,8 @@ I'm currently working as a freelance developer on ![Upwork](https://img.shields.
 Feel free to explore my [Upwork profile](https://www.upwork.com/freelancers/tuanhosi) for more details on my work and client feedback.
 
 #### Achievements
-<img src="./images/100jobs.png" alt="" width="100" height="24" style="border-radius: 5px;"> 
-<img src="https://support.upwork.com/hc/article_attachments/360077873774?width=600&height=300" alt="" width="120" height="24" style="border-radius: 5px;"> 
+<img src="./images/success.png" alt="" width="100" height="24" style="border-radius: 5px;"> 
+<img src="./images/ratedPlus.png" alt="" width="100" height="24" style="border-radius: 5px;"> 
 
 
 ## 🛠️ My Apps
