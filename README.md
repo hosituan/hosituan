@@ -2,6 +2,18 @@
 
 I'm a passionate iOS developer with 4 years of experience building intuitive and high-performance mobile applications. I love working with iOS development by using Swift and SwiftUI, and I'm always eager to learn new technologies and improve my skills.
 
+## 🌟 My Works
+
+I'm currently working as a freelance developer on ![Upwork](https://img.shields.io/badge/Upwork-4A8B9D?logo=upwork&logoColor=green). I primarily focus on iOS 📱 and Android 📱 development, delivering high-quality solutions to my clients.
+
+
+Feel free to explore my [Upwork profile](https://www.upwork.com/freelancers/tuanhosi) for more details on my work and client feedback.
+
+#### Achievements
+<img src="./images/100jobs.png" alt="" width="100" height="24" style="border-radius: 5px;"> 
+<img src="https://support.upwork.com/hc/article_attachments/360077873774?width=600&height=300" alt="" width="120" height="24" style="border-radius: 5px;"> 
+
+
 ## 🛠️ My Apps
 
 I have developed and published several apps on the App Store. Here are a couple of highlights:
